@@ -14,7 +14,7 @@
 ---
 
 ## 📖 About
-Digital Innovation One Inc.'s ReactJS Front-End Bootcamp Practical Challenge # 1
+Simple snake game created with basic front-end elements.
 
 ---
 
