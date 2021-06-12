@@ -21,7 +21,7 @@ Simple snake game created with basic front-end elements.
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/snake_game.git
+git clone https://github.com/ecpieritz/snake_game.git
 
 #### Enter directory
 `cd snake_game`
